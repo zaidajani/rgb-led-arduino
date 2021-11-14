@@ -1,4 +1,4 @@
-# rgb-led-arduino
+# RGB-led-arduino
 
 Light up a four pin rgb led using arduino.
 
